@@ -7,8 +7,11 @@
 ![RAG](https://img.shields.io/badge/RAG-C8A24A?style=flat-square)
 ![ML](https://img.shields.io/badge/Machine%20Learning-F7931E?style=flat-square)
 
-<!-- HERO -->
-<p align="center"><i>🎬 Hero image / demo GIF coming soon — verdict (fit / restricted / unfit) with its cited sources.</i></p>
+<p align="center">
+  🚀 <a href="https://aero-fit-eight.vercel.app"><b>Live demo</b></a>
+</p>
+
+![Hero](assets/hero-aerofit.jpg)
 
 ## The problem
 
@@ -46,3 +49,6 @@ Private (product IP). Happy to walk through the architecture or grant **read-onl
 Open technical core: [Medical-Aeronautic RAG Engine](https://github.com/akhanER2000/Local-RAG-medical-assistance-aeronautic).
 
 **Contact:** [Portfolio](https://cs-portfolio-psi-topaz.vercel.app) · [LinkedIn](https://www.linkedin.com/in/akhan-espinoza) · castrolorenzosegundo@gmail.com
+
+---
+<sub>Docs © 2026 Akhan Lorenzo Espinoza Rojas — All rights reserved.</sub>
